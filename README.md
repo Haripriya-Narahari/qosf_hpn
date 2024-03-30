@@ -8,16 +8,9 @@ Given a positive integer “k” and a list of integer numbers, look for the num
 
 
 def less_than_k (int:k, list[int] ,list_n):
-     “””
-k : integer value that is the positive number to compare in list_n,
-list_n : integer list that has positive numbers.
-Return the numbers that are in list_n and are less than k 
-     “””
-
-     # use a framework that works with quantum circuits, qiskit, cirq, pennylane, etc. 
-
-      # consider print your quantum circuit,
-
+     k : integer value that is the positive number to compare in list_n,
+     list_n : integer list that has positive numbers.
+     Return the numbers that are in list_n and are less than k 
 
 Example:
 
