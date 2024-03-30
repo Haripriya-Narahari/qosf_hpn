@@ -1,8 +1,8 @@
 
 # QOSF : Cohort - 9
 
-30-03-2024: Added Screening Task 1 notebook for submission
-Task 1: less than k
+### 30-03-2024: Added Screening Task 1 notebook for submission
+#### Task 1: less than k
 
 Given a positive integer “k” and a list of integer numbers, look for the numbers within the list, that are less than k. Consider an appropriate number of qubits and explain why your proposal is valid for all kinds of numbers in case 
 
